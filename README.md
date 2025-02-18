@@ -6,7 +6,7 @@ React AI Mock Interview is an innovative web application designed to simulate re
 
 Please download the assets used in this projects from here : [Download](https://drive.google.com/drive/folders/1aAiHz6FApIc2IXOsq-TOHHZYcu-aAvrN?usp=drive_link)
 
-![My Project Landing Page](./snap.png)
+[video](https://github.com/user-attachments/assets/78faff22-6dc4-47c2-b793-8170b315954c)
 
 ## Features
 
